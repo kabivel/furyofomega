@@ -1,0 +1,802 @@
+Skill 1 Attaque: Damage Formula: a.atk * 4 - b.def * 2
+Skill 3 Attaque double: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 Double attaque: Damage Formula: a.atk * 4 - b.def * 2
+Skill 5 Triple attaque: Damage Formula: a.atk * 4 - b.def * 2
+Skill 8 Souffle enflammé: Damage Formula: a.atk
+Skill 9 Souffle glacé: Damage Formula: a.atk
+Skill 10 Choc électrique: Damage Formula: a.atk
+Skill 21 Souplesse: Damage Formula: a.atk * 4 - b.def * 2
+Skill 23 Vampirisme: Damage Formula: a.atk * 2 - b.def
+Skill 24 Méditation: Damage Formula: b.mhp / 4
+Skill 26 Soin: Damage Formula: 250 + a.mat
+Skill 27 Soin 2: Damage Formula: 1000 + a.mat * 2
+Skill 28 Soin 3: Damage Formula: 4000 + a.mat * 4
+Skill 29 Restauration: Damage Formula: 250 + a.mat
+Skill 30 Restauration 2: Damage Formula: 1000 + a.mat * 2
+Skill 33 Résurrection: Damage Formula: b.mhp / 10
+Skill 34 Résurrection 2: Damage Formula: b.mhp / 2
+Skill 49 Saignée: Damage Formula: 200 + a.mat * 4 - b.mdf * 2
+Skill 50 Succion: Damage Formula: 20 + a.mat - b.mdf * 0.5
+Skill 51 Feu: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 52 Feu 2: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 53 Flamme: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 54 Flamme 2: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 55 Glace: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 56 Glace 2: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 57 Blizzard: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 58 Blizzard II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 59 Eclair: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 60 Eclair 2: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 61 Foudre: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 62 Foudre 2: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 63 Eau: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 64 Vague: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 65 Roche: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 66 Séisme: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 67 Vent: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 68 Tornade: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 69 Lumière: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 70 Lumière 2: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 71 Ténèbres: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 72 Ténèbres 2: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 73 Explosion: Damage Formula: 300 + a.mat * 2
+Skill 74 Explosion max.: Damage Formula: 300 + a.mat * 2
+Skill 80 Attaque brutale: Damage Formula: a.atk * 5 - b.def * 2
+Skill 81 Pourfendre: Damage Formula: a.atk * 2 - b.def * 2
+Skill 83 Danse martiale: Damage Formula: a.atk * 5 - b.def * 2
+Skill 84 Déchaînement: Damage Formula: a.atk * 12 - b.def * 6
+Skill 85 Tacle: Damage Formula: a.atk * 4 + a.def * 2 - b.def * 2
+Skill 88 Coup de pied éclair: Damage Formula: a.atk * 5
+Skill 89 Griffe: Damage Formula: a.atk * 12
+Skill 94 Tempête: Damage Formula: a.atk * 5 - b.def * 2
+Skill 95 Aura: Damage Formula: a.atk * 4 + a.mat * 3 - b.def - b.mdf
+Skill 99 Aura 2: Damage Formula: a.atk * 5 + a.mat * 5 - b.def - b.mdf
+Skill 100 BUGIGNORER: Damage Formula: a.atk * 4
+Skill 103 Tsubamekaeshi: Damage Formula: a.atk * 3 - b.def * 2
+Skill 104 Ouka Mugen jin: Damage Formula: a.atk * 4 - b.def * 2
+Skill 105 Brise-arme: Damage Formula: a.atk * 4 - b.def * 2
+Skill 106 Brise-armure: Damage Formula: a.atk * 4 - b.def * 2
+Skill 108 Triple tir: Damage Formula: a.atk * 4 + a.agi * 2 - b.def * 2
+Skill 109 Pluie de flèches: Damage Formula: a.atk * 3 + a.agi * 2 - b.def * 2
+Skill 113 Lame furtive: Damage Formula: a.atk * 3 + a.luk * 4 - b.def * 2
+Skill 114 Lame fatale: Damage Formula: a.atk * 2 + a.luk * 4 - b.def * 2
+Skill 117 Lumière divine: Damage Formula: a.mat * 5 - b.mdf
+Skill 122 Torrent magique: Damage Formula: b.mmp * 0.5
+Skill 127 Yoroidoshi: Damage Formula: a.atk * 5
+Skill 131 Tacle +: Damage Formula: a.atk * 6 + a.def * 2 - b.def * 2
+Skill 134 Coup de pied éclair +: Damage Formula: a.atk * 7
+Skill 135 Griffe +: Damage Formula: a.atk * 13
+Skill 136 Méditation +: Damage Formula: b.mhp / 5
+Skill 138 Attaque brutale +: Damage Formula: a.atk * 7 - b.def * 2
+Skill 139 Danse martiale +: Damage Formula: a.atk * 5 - b.def * 2
+Skill 141 Déchaînement +: Damage Formula: a.atk * 15 - b.def * 6
+Skill 143 Vent +: Damage Formula: 300 + a.mat * 8 - b.mdf * 2
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 14:  - Script call: fishing
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 14:  - Script call: fishing
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 14:  - Script call: fishing
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 14:  - Script call: fishing
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 14:  - Script call: fishing
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 14:  - Script call: fishing
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 14:  - Script call: fishing
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 14:  - Script call: fishing
+Map 5 Habitation INITIA Début - Event 18 EV018 (21,24) - Page 1 Line 1:  - Script call: chain_commands(5)
+Map 5 Habitation INITIA Début - Event 18 EV018 (21,24) - Page 2 Line 5:  - Script call: weather_restore
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 14:  - Script call: fishing
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 14 EV014 (13,25) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 6 Maison du Malin - Event 14 EV014 (13,25) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 6 Maison du Malin - Event 14 EV014 (13,25) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 6 Maison du Malin - Event 14 EV014 (13,25) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 6 Maison du Malin - Event 14 EV014 (13,25) - Page 1 Line 8:  - Script call: fishing
+Map 6 Maison du Malin - Event 15 EV015 (12,28) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 6 Maison du Malin - Event 15 EV015 (12,28) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 6 Maison du Malin - Event 15 EV015 (12,28) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 6 Maison du Malin - Event 15 EV015 (12,28) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 6 Maison du Malin - Event 15 EV015 (12,28) - Page 1 Line 8:  - Script call: fishing
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 19 EV019 (8,22) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 6 Maison du Malin - Event 19 EV019 (8,22) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 6 Maison du Malin - Event 19 EV019 (8,22) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 6 Maison du Malin - Event 19 EV019 (8,22) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 6 Maison du Malin - Event 19 EV019 (8,22) - Page 1 Line 8:  - Script call: fishing
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 25 EV025 (24,18) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 6 Maison du Malin - Event 25 EV025 (24,18) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 6 Maison du Malin - Event 25 EV025 (24,18) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 6 Maison du Malin - Event 25 EV025 (24,18) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 6 Maison du Malin - Event 25 EV025 (24,18) - Page 1 Line 8:  - Script call: fishing
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 28 EV028 (27,24) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 6 Maison du Malin - Event 28 EV028 (27,24) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 6 Maison du Malin - Event 28 EV028 (27,24) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 6 Maison du Malin - Event 28 EV028 (27,24) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 6 Maison du Malin - Event 28 EV028 (27,24) - Page 1 Line 8:  - Script call: fishing
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 14:  - Script call: fishing
+Map 6 Maison du Malin - Event 56 EV056 (15,0) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 6 Maison du Malin - Event 56 EV056 (15,0) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 6 Maison du Malin - Event 56 EV056 (15,0) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 6 Maison du Malin - Event 56 EV056 (15,0) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 6 Maison du Malin - Event 56 EV056 (15,0) - Page 1 Line 8:  - Script call: fishing
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 14:  - Script call: fishing
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 14:  - Script call: fishing
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 14:  - Script call: fishing
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 14:  - Script call: fishing
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 14:  - Script call: fishing
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 14:  - Script call: fishing
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 14:  - Script call: fishing
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 20 EV020 (18,10) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 25 villeinitiasudsombre - Event 20 EV020 (18,10) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 25 villeinitiasudsombre - Event 20 EV020 (18,10) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 25 villeinitiasudsombre - Event 20 EV020 (18,10) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 25 villeinitiasudsombre - Event 20 EV020 (18,10) - Page 1 Line 8:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 22 EV022 (20,6) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 25 villeinitiasudsombre - Event 22 EV022 (20,6) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 25 villeinitiasudsombre - Event 22 EV022 (20,6) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 25 villeinitiasudsombre - Event 22 EV022 (20,6) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 25 villeinitiasudsombre - Event 22 EV022 (20,6) - Page 1 Line 8:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 25 EV025 (16,18) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 25 villeinitiasudsombre - Event 25 EV025 (16,18) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 25 villeinitiasudsombre - Event 25 EV025 (16,18) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 25 villeinitiasudsombre - Event 25 EV025 (16,18) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 25 villeinitiasudsombre - Event 25 EV025 (16,18) - Page 1 Line 8:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 28 EV028 (16,24) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 25 villeinitiasudsombre - Event 28 EV028 (16,24) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 25 villeinitiasudsombre - Event 28 EV028 (16,24) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 25 villeinitiasudsombre - Event 28 EV028 (16,24) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 25 villeinitiasudsombre - Event 28 EV028 (16,24) - Page 1 Line 8:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 14:  - Script call: fishing
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 14:  - Script call: fishing
+Map 28 Habitation INITIA Detruit - Event 17 EV017 (21,24) - Page 2 Line 5:  - Script call: weather_restore
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 14:  - Script call: fishing
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 14:  - Script call: fishing
+Map 28 Habitation INITIA Detruit - Event 61 EV061 (29,25) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 28 Habitation INITIA Detruit - Event 61 EV061 (29,25) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 28 Habitation INITIA Detruit - Event 61 EV061 (29,25) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 28 Habitation INITIA Detruit - Event 61 EV061 (29,25) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 28 Habitation INITIA Detruit - Event 61 EV061 (29,25) - Page 1 Line 8:  - Script call: fishing
+Map 28 Habitation INITIA Detruit - Event 62 EV062 (26,27) - Page 1 Line 2:  - Script call: add_fish(4)
+Map 28 Habitation INITIA Detruit - Event 62 EV062 (26,27) - Page 1 Line 5:  - Script call: fish_back(1,0,0,120)
+Map 28 Habitation INITIA Detruit - Event 62 EV062 (26,27) - Page 1 Line 6:  - Script call: rand_fish(0,2,3)
+Map 28 Habitation INITIA Detruit - Event 62 EV062 (26,27) - Page 1 Line 7:  - Script call: rand_fish(1,2,4)
+Map 28 Habitation INITIA Detruit - Event 62 EV062 (26,27) - Page 1 Line 8:  - Script call: fishing
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 14:  - Script call: fishing
+Map 29 debut - Event 21 Introduction2 (0,0) - Page 1 Line 2:  - Script call: enable_picture(2)
+Map 29 debut - Event 21 Introduction2 (0,0) - Page 1 Line 3:  - Script call: enable_picture(3)
+Map 29 debut - Event 21 Introduction2 (0,0) - Page 1 Line 4:  - Script call: enable_picture(5)
+Map 29 debut - Event 21 Introduction2 (0,0) - Page 1 Line 5:  - Script call: enable_picture(7)
+Map 29 debut - Event 21 Introduction2 (0,0) - Page 1 Line 6:  - Script call: enable_picture(10)
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 2:  - Script call: $game_system.gallery[1] = true
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 3:  - Script call: $game_system.gallery[14] = true
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 4:  - Script call: $game_system.gallery[15] = true
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 5:  - Script call: $game_system.gallery[19] = true
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 6:  - Script call: $game_system.gallery[22] = true
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 7:  - Script call: $game_system.gallery[24] = true
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 8:  - Script call: enable_picture(1)
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 9:  - Script call: enable_picture(14)
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 10:  - Script call: enable_picture(15)
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 11:  - Script call: enable_picture(19)
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 12:  - Script call: enable_picture(22)
+Map 29 debut - Event 28 Pictures (14,4) - Page 1 Line 13:  - Script call: enable_picture(24)
+Map 34 rêve - Event 1 EV001 (0,0) - Page 1 Line 153:  - Script call: ADIK::MAP_HUD.change_actor(1)
+Map 34 rêve - Event 1 EV001 (0,0) - Page 1 Line 154:  - Script call: ADIK::MAP_HUD.toggle
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 14:  - Script call: fishing
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 14:  - Script call: fishing
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 14:  - Script call: fishing
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 14:  - Script call: fishing
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 14:  - Script call: fishing
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 14:  - Script call: fishing
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 14:  - Script call: fishing
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 14:  - Script call: fishing
+Map 39 Tente (Intérieur)poissonier - Event 12 EV012 (11,5) - Page 1 Line 5:  - Script call: fishing_stats
+Map 48 Donjon du trou - Event 12 EV012 (58,27) - Page 2 Line 1:  - Conditional Branch script call: $game_map.using_tool?
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 14:  - Script call: fishing
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 246 EV246 (127,257) - Page 2 Line 5:  - Script call: weather_restore
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 14:  - Script call: fishing
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 2:  - Script call: fish_back(0,0,0,120)
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 5:  - Script call: add_fish(3)
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 9:  - Script call: rand_fish(0,2,8)
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 10:  - Script call: rand_fish(1,2,8)
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 12:  - Script call: add_fish(2)
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 14:  - Script call: fishing
+Map 52 Global 1( Normal ) - Event 260 EV260 (127,257) - Page 1 Line 1:  - Script call: chain_commands(5)
+Map 52 Global 1( Normal ) - Event 260 EV260 (127,257) - Page 2 Line 5:  - Script call: weather_restore

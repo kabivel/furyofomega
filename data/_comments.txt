@@ -1,0 +1,737 @@
+Map 2 Maison de début - Event 58 EV058 (2,14) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 13:  - Comment: Start the scene:
+Map 4 villeinitiasudclair - Event 6 EV006 (23,2) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 13:  - Comment: Start the scene:
+Map 4 villeinitiasudclair - Event 7 EV007 (21,4) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 13:  - Comment: Start the scene:
+Map 4 villeinitiasudclair - Event 8 EV008 (17,11) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 13:  - Comment: Start the scene:
+Map 4 villeinitiasudclair - Event 9 EV009 (19,8) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 13:  - Comment: Start the scene:
+Map 4 villeinitiasudclair - Event 10 EV010 (16,22) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 13:  - Comment: Start the scene:
+Map 4 villeinitiasudclair - Event 11 EV011 (16,17) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 13:  - Comment: Start the scene:
+Map 4 villeinitiasudclair - Event 16 EV016 (14,28) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 13:  - Comment: Start the scene:
+Map 5 Habitation INITIA Début - Event 14 EV014 (26,27) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 13:  - Comment: Start the scene:
+Map 5 Habitation INITIA Début - Event 28 EV028 (29,25) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 5 Habitation INITIA Début - Event 32 EV032 (3,26) - Page 1 Line 1:  - Comment: <Text = !>
+Map 5 Habitation INITIA Début - Event 32 EV032 (3,26) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 5 Habitation INITIA Début - Event 32 EV032 (3,26) - Page 3 Line 1:  - Comment: <Text = ?>
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 13:  - Comment: Start the scene:
+Map 5 Habitation INITIA Début - Event 33 EV033 (25,28) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 13 EV013 (14,26) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 16 EV016 (9,28) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 17 EV017 (8,27) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 18 EV018 (6,25) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 20 EV020 (9,21) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 21 EV021 (11,19) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 22 EV022 (12,18) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 23 EV023 (14,19) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 24 EV024 (24,16) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 26 EV026 (26,20) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 27 EV027 (28,22) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 29 EV029 (27,26) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 30 EV030 (29,26) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 31 EV031 (24,20) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 32 EV032 (27,21) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 33 EV033 (29,15) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 34 EV034 (30,17) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 52 EV052 (18,24) - Page 1 Line 1:  - Comment: <Effects = Slime Breath>
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 53 EV053 (22,0) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 54 EV054 (6,0) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 13:  - Comment: Start the scene:
+Map 6 Maison du Malin - Event 55 EV055 (17,0) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 13:  - Comment: Start the scene:
+Map 9 Egouts maudit - Event 39 EV039 (45,23) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 13:  - Comment: Start the scene:
+Map 9 Egouts maudit - Event 40 EV040 (23,21) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 13:  - Comment: Start the scene:
+Map 9 Egouts maudit - Event 41 EV041 (24,22) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 13:  - Comment: Start the scene:
+Map 9 Egouts maudit - Event 42 EV042 (3,17) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 13:  - Comment: Start the scene:
+Map 9 Egouts maudit - Event 43 EV043 (10,30) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 13:  - Comment: Start the scene:
+Map 9 Egouts maudit - Event 44 EV044 (30,34) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 13:  - Comment: Start the scene:
+Map 9 Egouts maudit - Event 45 EV045 (56,24) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 13:  - Comment: Start the scene:
+Map 9 Egouts maudit - Event 46 EV046 (48,8) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 10 Habitation Tente - Event 10 EV010 (26,17) - Page 1 Line 1:  - Comment: <Text = !>
+Map 10 Habitation Tente - Event 10 EV010 (26,17) - Page 2 Line 1:  - Comment: <Text = !>
+Map 10 Habitation Tente - Event 10 EV010 (26,17) - Page 3 Line 1:  - Comment: <Text = !>
+Map 10 Habitation Tente - Event 10 EV010 (26,17) - Page 4 Line 1:  - Comment: <Text = ?>
+Map 10 Habitation Tente - Event 12 petitefille (26,11) - Page 1 Line 1:  - Comment: <Text = !>
+Map 10 Habitation Tente - Event 12 petitefille (26,11) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 24 BarDetruit - Event 3 EV003 (3,7) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 19 EV019 (16,14) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 21 EV021 (17,12) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 23 EV023 (19,8) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 24 EV024 (16,16) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 26 EV026 (16,20) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 27 EV027 (16,22) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 29 EV029 (16,26) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 30 EV030 (15,27) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 31 EV031 (14,28) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 32 EV032 (13,29) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 33 EV033 (21,4) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 13:  - Comment: Start the scene:
+Map 25 villeinitiasudsombre - Event 34 EV034 (24,1) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 26 Annexe Nord Campement - Event 11 EV011 (14,27) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 26 Annexe Nord Campement - Event 11 EV011 (14,27) - Page 2 Line 1:  - Comment: <Text = >
+Map 27 Maison chef village - Event 3 EV003 (6,12) - Page 2 Line 1:  - Comment: <Text = !>
+Map 27 Maison chef village - Event 3 EV003 (6,12) - Page 3 Line 1:  - Comment: <Text = ?>
+Map 27 Maison chef village - Event 3 EV003 (6,12) - Page 4 Line 1:  - Comment: <Text = ?>
+Map 27 Maison chef village - Event 3 EV003 (6,12) - Page 5 Line 1:  - Comment: <Text = >
+Map 27 Maison chef village - Event 4 EV004 (9,9) - Page 1 Line 1:  - Comment: <Text = !>
+Map 27 Maison chef village - Event 4 EV004 (9,9) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 27 Maison chef village - Event 4 EV004 (9,9) - Page 3 Line 1:  - Comment: <Text = ?>
+Map 27 Maison chef village - Event 4 EV004 (9,9) - Page 4 Line 1:  - Comment: <Text = ?>
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 13:  - Comment: Start the scene:
+Map 28 Habitation INITIA Detruit - Event 59 EV059 (25,28) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 13:  - Comment: Start the scene:
+Map 28 Habitation INITIA Detruit - Event 60 EV060 (28,26) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 13:  - Comment: Start the scene:
+Map 28 Habitation INITIA Detruit - Event 63 EV063 (27,26) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 28 Habitation INITIA Detruit - Event 64 EV064 (28,12) - Page 1 Line 1:  - Comment: <Text = !>
+Map 28 Habitation INITIA Detruit - Event 64 EV064 (28,12) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 29 debut - Event 28 Pictures (14,4) - Page 2 Line 1:  - Comment: <Text = >
+Map 32 Forêt Enchantée - Event 10 Commandant (4,3) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 32 Forêt Enchantée - Event 10 Commandant (4,3) - Page 3 Line 1:  - Comment: <Text = >
+Map 33 secret_bar1 - Event 2 EV002 (8,4) - Page 2 Line 1:  - Comment: <Effects = Breath>
+Map 33 secret_bar1 - Event 2 EV002 (8,4) - Page 3 Line 1:  - Comment: <Effects = Breath>
+Map 35 Salle Violetta - Event 3 Sortie (11,4) - Page 1 Line 6:  - Comment: A mettre à la place de la TP de la salle du boss Violetta !!!!!!!!!!!!!!!!!!!!!!
+Map 35 Salle Violetta - Event 6 Natalie (18,5) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 13:  - Comment: Start the scene:
+Map 36 Chemin de l'arène - Event 38 EV038 (57,10) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 13:  - Comment: Start the scene:
+Map 36 Chemin de l'arène - Event 39 EV039 (61,10) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 13:  - Comment: Start the scene:
+Map 36 Chemin de l'arène - Event 40 EV040 (63,10) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 13:  - Comment: Start the scene:
+Map 36 Chemin de l'arène - Event 41 EV041 (67,10) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 13:  - Comment: Start the scene:
+Map 36 Chemin de l'arène - Event 42 EV042 (62,6) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 13:  - Comment: Start the scene:
+Map 36 Chemin de l'arène - Event 43 EV043 (57,4) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 13:  - Comment: Start the scene:
+Map 36 Chemin de l'arène - Event 44 EV044 (57,6) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 13:  - Comment: Start the scene:
+Map 36 Chemin de l'arène - Event 45 EV045 (67,3) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 43 Battle Field - Event 1 EV001 (3,6) - Page 1 Line 1:  - Comment: <Text = Forêt Initia>
+Map 43 Battle Field - Event 2 EV002 (13,6) - Page 1 Line 1:  - Comment: <Text = Objet de quête>
+Map 43 Battle Field - Event 3 EV003 (8,6) - Page 1 Line 1:  - Comment: <Text = Chemin de l'arène>
+Map 43 Battle Field - Event 5 EV005 (3,8) - Page 1 Line 1:  - Comment: <Text = Campement Nord>
+Map 43 Battle Field - Event 6 EV006 (3,4) - Page 1 Line 1:  - Comment: <Text = Maison de Montagne>
+Map 43 Battle Field - Event 7 EV007 (3,2) - Page 1 Line 1:  - Comment: <Text = Maison>
+Map 43 Battle Field - Event 8 EV008 (13,2) - Page 1 Line 1:  - Comment: <Text = Capital Alpha>
+Map 43 Battle Field - Event 9 EV009 (13,4) - Page 1 Line 1:  - Comment: <Text = Forêt SE>
+Map 43 Battle Field - Event 10 EV010 (18,8) - Page 1 Line 1:  - Comment: <Text = Gold>
+Map 43 Battle Field - Event 11 EV011 (8,2) - Page 1 Line 1:  - Comment: <Text = Campement>
+Map 43 Battle Field - Event 12 EV012 (8,4) - Page 1 Line 1:  - Comment: <Text = Salle Violetta>
+Map 43 Battle Field - Event 13 EV013 (8,8) - Page 1 Line 1:  - Comment: <Text = Manoir Violetta>
+Map 43 Battle Field - Event 14 EV014 (18,2) - Page 1 Line 1:  - Comment: <Text = Niveau ?>
+Map 43 Battle Field - Event 15 EV015 (13,8) - Page 1 Line 1:  - Comment: <Text = Choix Classe>
+Map 43 Battle Field - Event 16 EV016 (18,4) - Page 1 Line 1:  - Comment: <Text = Magasin Arme>
+Map 43 Battle Field - Event 17 EV017 (18,6) - Page 1 Line 1:  - Comment: <Text = Magasin Armure>
+Map 46 Forêt Boulversée(N) - Event 4 fantome (20,5) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 48 Donjon du trou - Event 1 EV001 (0,0) - Page 1 Line 1:  - Comment: BOMB_TOOL
+Map 48 Donjon du trou - Event 5 EV005 (47,3) - Page 1 Line 1:  - Comment: ARROW_ACTIVATE
+Map 48 Donjon du trou - Event 6 EV006 (6,23) - Page 1 Line 1:  - Comment: BOMB_ACTIVATE
+Map 48 Donjon du trou - Event 7 EV007 (67,2) - Page 1 Line 1:  - Comment: BOMB_ACTIVATE
+Map 48 Donjon du trou - Event 12 EV012 (58,27) - Page 1 Line 1:  - Comment: BOOMERANG_ACTIVATE
+Map 48 Donjon du trou - Event 13 EV013 (38,25) - Page 1 Line 1:  - Comment: HOOKSHOT_ENABLED
+Map 48 Donjon du trou - Event 14 EV014 (34,26) - Page 1 Line 1:  - Comment: HOOKSHOT_ENABLED
+Map 48 Donjon du trou - Event 15 EV015 (34,31) - Page 1 Line 1:  - Comment: HOOKSHOT_ENABLED
+Map 48 Donjon du trou - Event 16 EV016 (31,30) - Page 1 Line 1:  - Comment: HOOKSHOT_ENABLED
+Map 48 Donjon du trou - Event 17 EV017 (31,26) - Page 1 Line 1:  - Comment: HOOKSHOT_ENABLED
+Map 48 Donjon du trou - Event 18 EV018 (26,27) - Page 1 Line 1:  - Comment: HOOKSHOT_ENABLED
+Map 48 Donjon du trou - Event 19 EV019 (22,26) - Page 1 Line 1:  - Comment: HOOKSHOT_ENABLED
+Map 48 Donjon du trou - Event 22 EV022 (3,32) - Page 2 Line 1:  - Comment: RESET_EXEMPT
+Map 48 Donjon du trou - Event 23 EV023 (2,32) - Page 2 Line 1:  - Comment: RESET_EXEMPT
+Map 48 Donjon du trou - Event 24 EV024<Sensor10> (4,31) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 48 Donjon du trou - Event 24 EV024<Sensor10> (4,31) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 48 Donjon du trou - Event 28 EV028 (1,0) - Page 1 Line 1:  - Comment: DUNGEON_TOOL
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 2 EV002 (9,27) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 3 EV003 (9,30) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 4 EV004 (22,30) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 5 EV005 (24,27) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 6 EV006 (20,21) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 7 EV007 (21,24) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 8 EV008 (12,21) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 9 EV009 (9,21) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 10 EV010 (10,16) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 11 EV011 (4,13) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 12 EV012 (24,18) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 13 EV013 (28,13) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 14 EV014 (23,7) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 13:  - Comment: Start the scene:
+Map 49 Capital Alpha (Non Finit) - Event 15 EV015 (14,8) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 32 EV032 (32,237) - Page 3 Line 1:  - Comment: <Text = !>
+Map 51 Global 1( Début) - Event 32 EV032 (32,237) - Page 4 Line 1:  - Comment: <Text = ?>
+Map 51 Global 1( Début) - Event 41 petitefille (32,231) - Page 1 Line 1:  - Comment: <Text = !>
+Map 51 Global 1( Début) - Event 41 petitefille (32,231) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 51 Global 1( Début) - Event 44 EV044 (20,217) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 51 Global 1( Début) - Event 56 Commandant (47,158) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 51 Global 1( Début) - Event 56 Commandant (47,158) - Page 3 Line 1:  - Comment: <Text = >
+Map 51 Global 1( Début) - Event 65 fantome (70,92) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 51 Global 1( Début) - Event 73 EV073 (78,234) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 51 Global 1( Début) - Event 236 Général (109,259) - Page 1 Line 1:  - Comment: <Text = !>
+Map 51 Global 1( Début) - Event 236 Général (109,259) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 51 Global 1( Début) - Event 236 Général (109,259) - Page 3 Line 1:  - Comment: <Text = ?>
+Map 51 Global 1( Début) - Event 236 Général (109,259) - Page 4 Line 1:  - Comment: <Text = >
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 249 EV249 (135,258) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 250 EV250 (132,260) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 251 EV251 (130,262) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 252 EV252 (101,263) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 253 EV253 (96,265) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 254 EV254 (129,268) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 255 EV255 (130,266) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 256 EV256 (127,270) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 257 EV257 (126,272) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 258 EV258 (125,274) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 259 EV259 (124,276) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 260 EV260 (123,278) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 261 EV261 (122,282) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 262 EV262 (122,285) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 263 EV263 (122,289) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 264 EV264 (122,292) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 265 EV265 (121,294) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 13:  - Comment: Start the scene:
+Map 51 Global 1( Début) - Event 266 EV266 (121,297) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 32 EV032 (32,237) - Page 3 Line 1:  - Comment: <Text = !>
+Map 52 Global 1( Normal ) - Event 32 EV032 (32,237) - Page 4 Line 1:  - Comment: <Text = ?>
+Map 52 Global 1( Normal ) - Event 41 petitefille<sensor5> (32,231) - Page 1 Line 1:  - Comment: <Text = !>
+Map 52 Global 1( Normal ) - Event 41 petitefille<sensor5> (32,231) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 52 Global 1( Normal ) - Event 44 EV044 (20,217) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 52 Global 1( Normal ) - Event 56 Commandant (47,158) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 52 Global 1( Normal ) - Event 56 Commandant (47,158) - Page 3 Line 1:  - Comment: <Text = >
+Map 52 Global 1( Normal ) - Event 65 fantome (70,92) - Page 1 Line 1:  - Comment: <Text = ?>
+Map 52 Global 1( Normal ) - Event 73 EV073 (78,234) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 241 EV241 (130,266) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 242 EV242 (129,268) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 243 EV243 (127,270) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 244 EV244 (126,272) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 245 EV245 (125,274) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 246 EV246 (123,277) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 247 EV247 (122,282) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 248 EV248 (122,285) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 249 EV249 (122,287) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 250 EV250 (122,290) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 251 EV251 (121,293) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 252 EV252 (121,296) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 253 EV253 (131,261) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 1:  - Comment: Setup fish background:
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 3:  - Comment: If Self Switch A is off then put the chest in there.
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 8:  - Comment: Setup random fish:
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 11:  - Comment: Add a fixed position rock:
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 13:  - Comment: Start the scene:
+Map 52 Global 1( Normal ) - Event 254 EV254 (134,259) - Page 1 Line 16:  - Comment: If you caught the chest, turn self switch A on!
+Map 52 Global 1( Normal ) - Event 261 EV261 (134,245) - Page 1 Line 1:  - Comment: <Text = !>
+Map 52 Global 1( Normal ) - Event 261 EV261 (134,245) - Page 2 Line 1:  - Comment: <Text = ?>
+Map 52 Global 1( Normal ) - Event 413 EV413 (18,179) - Page 1 Line 1:  - Comment: <Effects = Slime Breath>
+Map 52 Global 1( Normal ) - Event 414 EV414 (1,186) - Page 1 Line 1:  - Comment: <Effects = Slime Breath>
+Map 52 Global 1( Normal ) - Event 415 EV415 (28,184) - Page 1 Line 1:  - Comment: <Effects = Slime Breath>
+Map 52 Global 1( Normal ) - Event 416 EV416 (30,158) - Page 1 Line 1:  - Comment: <Effects = Slime Breath>
+Map 52 Global 1( Normal ) - Event 417 EV417 (2,157) - Page 1 Line 1:  - Comment: <Effects = Slime Breath>
+Map 52 Global 1( Normal ) - Event 430 EV430 (40,161) - Page 1 Line 1:  - Comment: <Effects = Slime Breath>
