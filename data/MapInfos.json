@@ -50,7 +50,7 @@ null,
 {"id":48,"expanded":false,"name":"Donjon du trou","order":46,"parentId":45,"scrollX":649,"scrollY":748},
 {"id":49,"expanded":false,"name":"Capital Alpha (Non Finit)","order":50,"parentId":0,"scrollX":1626,"scrollY":915},
 {"id":50,"expanded":false,"name":"Passage secret","order":35,"parentId":26,"scrollX":272,"scrollY":208},
-{"id":51,"expanded":false,"name":"Global 1( Début)","order":51,"parentId":0,"scrollX":4184.571428571428,"scrollY":11165.142857142857},
+{"id":51,"expanded":false,"name":"Global 1( Début)","order":51,"parentId":0,"scrollX":4170.857142857142,"scrollY":11151.42857142857},
 {"id":52,"expanded":false,"name":"Global 1( Normal )","order":52,"parentId":0,"scrollX":2118,"scrollY":6777},
 {"id":53,"expanded":false,"name":"Prison","order":30,"parentId":10,"scrollX":288,"scrollY":208},
 {"id":54,"expanded":true,"name":"Tente Vendeur","order":24,"parentId":10,"scrollX":272,"scrollY":208}
