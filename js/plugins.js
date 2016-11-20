@@ -7,7 +7,7 @@ var $plugins =
 {"name":"EnemyBook","status":true,"description":"Displays detailed statuses of enemies.","parameters":{"Unknown Data":"??????"}},
 {"name":"AltMenuScreen","status":true,"description":"Alternative menu screen layout.","parameters":{}},
 {"name":"AltSaveScreen","status":true,"description":"Alternative save/load screen layout.","parameters":{}},
-{"name":"MOG_Weather_EX","status":false,"description":"(v2.0) Adiciona novos efeitos de climas.","parameters":{}},
+{"name":"MOG_Weather_EX","status":true,"description":"(v2.0) Adiciona novos efeitos de climas.","parameters":{}},
 {"name":"MOG_EventSensor","status":true,"description":"(v1.0) Sistema de distância de eventos.","parameters":{"Self Switch Key":"D"}},
 {"name":"------------------------","status":true,"description":"----------------------------------------------------------------------------------","parameters":{}},
 {"name":"-MENU","status":true,"description":"","parameters":{}},
