@@ -2038,7 +2038,8 @@ Sprite_Timer.prototype.updatePosition = function() {
 };
 
 Sprite_Timer.prototype.updateVisibility = function() {
-    this.visible = $gameTimer.isWorking();
+    //this.visible = $gameTimer.isWorking();
+	this.visible = false;
 };
 
 //-----------------------------------------------------------------------------
