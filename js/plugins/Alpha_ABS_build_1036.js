@@ -4016,9 +4016,11 @@ AlphaABS.register(AlphaABS.UTILS.PointX);
   };
   BattleUI.hideUI = function() {
     if (this._ui != null) {
+
       this._ui.setShowUI(false);
       this._ui.hide();
       ButtonsProManager.setVisibilityForAllButtons(false);
+      this._ui.initABS();
     }
   };
   BattleUI.refreshPlayerFace = function() {
