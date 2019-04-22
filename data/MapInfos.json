@@ -61,7 +61,7 @@ null,
 {"id":59,"expanded":false,"name":"INT_MaisonFilleAPoil","order":60,"parentId":56,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":60,"expanded":true,"name":"INT_ChateauFirstEtage","order":61,"parentId":56,"scrollX":948,"scrollY":896.4},
 {"id":61,"expanded":false,"name":"INT_ChateauSecEtage","order":62,"parentId":56,"scrollX":1020,"scrollY":862.8},
-{"id":62,"expanded":false,"name":"INT_DJSlime","order":63,"parentId":56,"scrollX":1789.1999999999998,"scrollY":967.1999999999999},
+{"id":62,"expanded":false,"name":"INT_DJSlime","order":63,"parentId":56,"scrollX":1134,"scrollY":1054.8},
 {"id":63,"expanded":false,"name":"MAP063","order":73,"parentId":46,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":64,"expanded":false,"name":"MAP064","order":74,"parentId":46,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":65,"expanded":false,"name":"INT_ManoirFE","order":65,"parentId":56,"scrollX":720,"scrollY":649.1999999999999},
@@ -82,5 +82,5 @@ null,
 {"id":80,"expanded":false,"name":"BDD_EventBTL","order":77,"parentId":78,"scrollX":720,"scrollY":649.1999999999999},
 {"id":81,"expanded":true,"name":"BTL_81","order":81,"parentId":78,"scrollX":720,"scrollY":649.1999999999999},
 {"id":82,"expanded":true,"name":"BTL_82","order":82,"parentId":78,"scrollX":720,"scrollY":649.1999999999999},
-{"id":83,"expanded":false,"name":"BTL_83","order":83,"parentId":78,"scrollX":729.6,"scrollY":649.1999999999999}
+{"id":83,"expanded":false,"name":"BTL_83","order":83,"parentId":78,"scrollX":712.8,"scrollY":800.4}
 ]
