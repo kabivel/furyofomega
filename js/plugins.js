@@ -55,5 +55,6 @@ var $plugins =
 {"name":"AABSE_TerraxLighting","status":true,"description":"TerraxLighting support for Alpha ABS","parameters":{}},
 {"name":"AABSE_ParticleSystem","status":true,"description":"Particle System for Alpha ABS","parameters":{}},
 {"name":"------------------------","status":true,"description":"----------------------------------------------------------------------------------","parameters":{}},
-{"name":"OuterSelfSwitch","status":true,"description":"Changes a self switch for other events.","parameters":{}}
+{"name":"OuterSelfSwitch","status":true,"description":"Changes a self switch for other events.","parameters":{}},
+{"name":"GALV_MessageStyles","status":true,"description":"(v.2.8) Settings to change how your \"Show Text\" messages look as well as code to make them floating.","parameters":{"Input Indicator":"2,0,-12","Indicator Zoom":"100","Message Padding":"0,0,0,0","Message Windowskin":"Window","Other Windowskins":"Window1,Window2,Window3","Arrow Graphic":"WindowArrow","Other Arrow Graphics":"WindowArrow1,WindowArrow2,WindowArrow3","Windowskin Back Opacity":"192","Y Offset":"60","Font":"","Font Filename":"","Font Outline":"true","Font Size":"28"}}
 ];
