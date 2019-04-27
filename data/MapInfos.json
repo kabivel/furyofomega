@@ -43,7 +43,7 @@ null,
 {"id":41,"expanded":true,"name":"La Croisée des mondes Paradis","order":2,"parentId":4,"scrollX":819,"scrollY":461},
 {"id":42,"expanded":false,"name":"La Croisée des mondes Enfer","order":3,"parentId":4,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":43,"expanded":false,"name":"INT_MaisonJoueur","order":52,"parentId":32,"scrollX":1064,"scrollY":721.3333333333334},
-{"id":44,"expanded":false,"name":"INT_SousSolMJ","order":53,"parentId":32,"scrollX":1064,"scrollY":721.3333333333334},
+{"id":44,"expanded":true,"name":"INT_SousSolMJ","order":53,"parentId":32,"scrollX":1064,"scrollY":721.3333333333334},
 {"id":45,"expanded":false,"name":"Forêt Boulversée(SE)","order":12,"parentId":3,"scrollX":1404,"scrollY":790.2857142857142},
 {"id":46,"expanded":true,"name":"MAPS_VIERGES","order":70,"parentId":0,"scrollX":729.6,"scrollY":649.1999999999999},
 {"id":47,"expanded":false,"name":"Tente (Intérieur)potion","order":43,"parentId":54,"scrollX":304,"scrollY":336},
@@ -83,5 +83,6 @@ null,
 {"id":81,"expanded":true,"name":"BTL_81","order":82,"parentId":78,"scrollX":870.5454545454546,"scrollY":590.1818181818182},
 {"id":82,"expanded":true,"name":"BTL_82","order":83,"parentId":78,"scrollX":1064,"scrollY":721.3333333333334},
 {"id":83,"expanded":false,"name":"BTL_83","order":84,"parentId":78,"scrollX":1064,"scrollY":721.3333333333334},
-{"id":84,"expanded":false,"name":"INT_RealDJSlimeBoss","order":65,"parentId":62,"scrollX":1064,"scrollY":721.3333333333334}
+null,
+{"id":85,"expanded":false,"name":"INT_RealDJSlimeBossv2","order":65,"parentId":62,"scrollX":1064,"scrollY":721.3333333333334}
 ]
